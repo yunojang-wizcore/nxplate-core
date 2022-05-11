@@ -2,7 +2,7 @@
   "name": "nxplate-ui",
   "version": "0.0.1",
   "description": "nxplate core ui package",
-  "main": "src/index.ts",
+  "main": "lib/index.js",
   "scripts": {},
   "license": "MIT",
   "dependencies": {
