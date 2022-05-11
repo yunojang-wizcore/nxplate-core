@@ -1,1 +1,1 @@
-export * as NU from "@wizrnd/nx-ui";
+export * as NXUI from "@wizrnd/nx-ui";
