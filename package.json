@@ -3,7 +3,9 @@
   "version": "0.0.1",
   "description": "nxplate core ui package",
   "main": "lib/index.js",
-  "scripts": {},
+  "scripts": {
+    "build": "tsc"
+  },
   "license": "MIT",
   "dependencies": {
     "@emotion/css": "^11.9.0",
